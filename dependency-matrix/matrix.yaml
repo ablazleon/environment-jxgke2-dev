@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: ablazleon
-  repo: jx-py-gke-3newcluster
-  url: https://github.com/ablazleon/jx-py-gke-3newcluster.git
+  repo: node-jx
+  url: https://github.com/ablazleon/node-jx.git
   version: ""
   versionURL: ""
