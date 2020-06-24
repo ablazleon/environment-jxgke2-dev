@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ablazleon
+    provider: github
+    repository: jx-py-gke-3newcluster
+  name: ablazleon-jx-py-gke-3newcluster
+spec:
+  description: Imported application for ablazleon/jx-py-gke-3newcluster
+  httpCloneURL: https://github.com/ablazleon/jx-py-gke-3newcluster.git
+  org: ablazleon
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jx-py-gke-3newcluster
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ablazleon/jx-py-gke-3newcluster.git
